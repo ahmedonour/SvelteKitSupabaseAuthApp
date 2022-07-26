@@ -1,6 +1,6 @@
 # SvelteKit with Supabase Auth Helpers
 
- github repo  for tutorial published on https://dev.to/kvetoslavnovak/sveltekit-with-supabase-auth-helpers-578a 
+ github repo for a tutorial published on https://dev.to/kvetoslavnovak/sveltekit-with-supabase-auth-helpers-578a 
 
 ## Nstall dependecies of the project
 
