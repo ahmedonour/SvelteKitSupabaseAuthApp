@@ -2,7 +2,7 @@
 
  github repo for a tutorial published on https://dev.to/kvetoslavnovak/sveltekit-with-supabase-auth-helpers-578a 
 
-## Nstall dependecies of the project
+## Install dependecies of the project
 
 ```bash
 npm install
@@ -10,7 +10,7 @@ npm install
 
 ## Keys
 
-Add yours .env Sipabase keys  
+Add your .env Sipabase keys. 
 
 
 ## Run
