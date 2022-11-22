@@ -10,7 +10,7 @@ npm install
 
 ## Keys
 
-Add your .env Sipabase keys. 
+Add your .env Supabase keys. 
 
 
 ## Run
