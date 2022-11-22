@@ -15,7 +15,7 @@ Add your .env Supabase keys.
 
 ## Run
 
-To preview the production build:
+To preview the build:
 
 ```bash
 npm run dev
