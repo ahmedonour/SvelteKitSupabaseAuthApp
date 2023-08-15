@@ -25,6 +25,7 @@
 						placeholder="Email"
 						required
 					/>
+					
 				</p>
 			</div>
 			<div>
@@ -54,3 +55,12 @@
 		</div>
 	</div>
 </section>
+
+<style>
+	section{
+		width: 100vw;
+		height: 100vh;
+		display: grid;
+		place-items: center;
+	}
+</style>
